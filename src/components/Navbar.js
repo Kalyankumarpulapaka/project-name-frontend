@@ -14,7 +14,7 @@ const Navbar = () => {
 
   return (
     <div className='navbar container mx-auto h-24 flex flex-col justify-center lg:flex-row lg:h-20 lg:justify-between items-center border-b border-sky-900'>
-      <Link to='/' className='logo text-2xl font-medium text-sky-400'>
+      <Link to='/' className='logo text-4xl font-medium text-sky-400 italic'>
         TechBee
       </Link>
 

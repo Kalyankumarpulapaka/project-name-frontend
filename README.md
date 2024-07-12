@@ -1,4 +1,4 @@
-# Proxima: Advanced Project Management Application
+# Simple Project Management Application
 
 Proxima leverages the MERN stack to deliver a sophisticated project management solution. It empowers users to effortlessly create, update, and delete projects, ensuring centralized information management for enhanced productivity.
 

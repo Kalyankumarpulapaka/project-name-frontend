@@ -1,6 +1,8 @@
-# Simple Project Management Application
+# Simple Project Management Application :
+
 
 Proxima leverages the MERN stack to deliver a sophisticated project management solution. It empowers users to effortlessly create, update, and delete projects, ensuring centralized information management for enhanced productivity.
+
 
 ## Key Features
 
@@ -18,7 +20,19 @@ Proxima leverages the MERN stack to deliver a sophisticated project management s
 
 - **Intuitive User Interface**: Designed for ease of use, Proxima's interface combines intuitive navigation with a modern aesthetic, enhancing user experience and facilitating seamless project oversight.
 
-##
+##Live Images:
+
+-**Login :
+![Alt Text](https://github.com/Kalyankumarpulapaka/project-name-frontend/blob/main/Live%20Images/Screenshot%202024-07-13%20022821.jpg)
+
+-**Signup:
+![Alt Text](https://github.com/Kalyankumarpulapaka/project-name-frontend/blob/main/Live%20Images/Screenshot%202024-07-13%20022908.jpg)
+
+-**Dashboard:
+![Alt Text](https://github.com/Kalyankumarpulapaka/project-name-frontend/blob/main/Live%20Images/Screenshot%202024-07-13%20022908.jpg)
+
+-**UpdateTask:
+![Alt Text](https://github.com/Kalyankumarpulapaka/project-name-frontend/blob/main/Live%20Images/Screenshot%202024-07-13%20023843.jpg)
 
 ## Tools
 

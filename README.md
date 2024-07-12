@@ -1,4 +1,4 @@
-# Proxima: Project Management Web Application
+# Project Management Web Application
 
 Proxima is a project management application built using the MERN stack. The application allows users to create, update, and delete their own projects with ease. Proxima is designed with high-level security in mind, featuring strong JWT authentication and front-end route protection to ensure the safety and privacy of user data.
 
@@ -74,7 +74,7 @@ npm start
 ## Links
 
 - [Live Demo](https://proxima-application.netlify.app)
-- [Front-End Repository](https://github.com/masudranashawon/proxima-client)
+- [Front-End Repository](https://github.com/Kalyankumarpulapaka/project-name-frontend)
 - [Back-End Repository](https://github.com/masudranashawon/proxima-server)
 
 ## Thanks for visiting this repository!

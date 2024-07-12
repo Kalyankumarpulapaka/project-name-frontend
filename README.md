@@ -29,7 +29,7 @@ Proxima leverages the MERN stack to deliver a sophisticated project management s
 ![Alt Text](https://github.com/Kalyankumarpulapaka/project-name-frontend/blob/main/Live%20Images/Screenshot%202024-07-13%20022908.jpg)
 
 - **Dashboard:
-![Alt Text](https://github.com/Kalyankumarpulapaka/project-name-frontend/blob/main/Live%20Images/Screenshot%202024-07-13%20022908.jpg)
+![Alt Text](https://github.com/Kalyankumarpulapaka/project-name-frontend/blob/main/Live%20Images/Screenshot%202024-07-13%20023804.jpg)
 
 - **UpdateTask:
 ![Alt Text](https://github.com/Kalyankumarpulapaka/project-name-frontend/blob/main/Live%20Images/Screenshot%202024-07-13%20023843.jpg)

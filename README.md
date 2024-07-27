@@ -104,4 +104,4 @@ npm start
 
 ## Thanks for visiting this repository!
 
-Author @Kalyankumarpulapaka 
+Author @Kalyan kumar pulapaka 
